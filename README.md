@@ -66,7 +66,8 @@ PROJECT-MANAGER/
 - 🔗 [Portfolio](https://akshit-tripathi.github.io/Dynamic-web-portfolio./)  
 - 📧 sharmaakshit820@gmail.com  
 
-## 📄 License
+## 📄 License ![Built by Akshit Tripathi](https://img.shields.io/badge/Built%20by-Akshit%20Tripathi-blueviolet)
+
 
 This project is protected under a custom license. Redistribution, modification, or commercial use is **not permitted** without the author's written permission.
 ```
