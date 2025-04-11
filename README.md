@@ -2,6 +2,8 @@
 
 **CodeNest** is an all-in-one **offline task manager** and **code compiler** that lets developers stay focused and productive without needing an internet connection. It's designed for students, hobbyists, and professionals who want to manage projects, track time, write & compile code—all in one place!
 
+Link to download zip: https://www.dropbox.com/scl/fi/r5vt5f9ssxrxr5o72ydgd/CodeNest.zip?rlkey=eb5c9gkw1kcq0bj6zgocy4q22&st=u25l4t6f&dl=0
+
 ## ✨ Features
 
 - ✅ Login/Signup with streak tracker  
