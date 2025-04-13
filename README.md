@@ -1,6 +1,6 @@
 # 🚀 CodeNest: Offline Task & Code Manager
 
-# just updated the CodeNest to CodeNest2.0 which is more faster in compiling code and having smoother UI
+# just updated the CodeNest to CodeNest2.0 which is more faster in compiling code and having smoother UI just remember one thing * It will show compilation timeout warning if your code has any "input taken from user" *
 
 **CodeNest** is an all-in-one **offline task manager** and **code compiler** that lets developers stay focused and productive without needing an internet connection. It's designed for students, hobbyists, and professionals who want to manage projects, track time, write & compile code—all in one place!
 
